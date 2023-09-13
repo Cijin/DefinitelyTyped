@@ -3,7 +3,7 @@
 // Definitions by: NinoScript <https://github.com/NinoScript>
 //                 Cijin <https://github.com/Cijin>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-// Typescript Version: 3.0
+// Typescript Version: 5.0
 
 // to shut off automatic exports
 export {};
