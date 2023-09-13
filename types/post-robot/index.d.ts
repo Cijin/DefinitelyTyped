@@ -1,9 +1,9 @@
-// Type definitions for @krakenjs/post-robot 11.0
+// Type definitions for @krakenjs/post-robot 10.0
 // Project: https://github.com/krakenjs/post-robot
 // Definitions by: NinoScript <https://github.com/NinoScript>
 //                 Cijin <https://github.com/Cijin>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-// Typescript Version: 5.0
+// Typescript Version: 5.1
 
 // to shut off automatic exports
 export {};
